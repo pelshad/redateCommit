@@ -7,6 +7,7 @@
 $ git log
 
 (가장 최근 커밋의 날짜를 수정할 거면 2로 바로 진행)
+
 커밋 중 원하는 커밋의 날짜를 수정한다면 commit t의 hash value 복사
 
 ## 1-2. git rebase -i {hash value}
