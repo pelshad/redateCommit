@@ -21,6 +21,7 @@ ex) git rebase -i 83f94b07a663bcaf5ddd355f92830fe4d9
 $ git commit --amend --no-edit --date "원하는 날짜"
 
 수정하고 싶은 날짜의 월, 일, 시간을 입력
+
 ex) $ git commit --amend --no-edit --date "May 29 08:00:00 2021 +0000"
 
 
@@ -29,6 +30,7 @@ ex) $ git commit --amend --no-edit --date "May 29 08:00:00 2021 +0000"
 $ git rebase --continue
 
 fatal: No rebase in progress?
+
 라는 글이 나오는데 무시해도 됨
 
 ## 4. git push -f origin main
