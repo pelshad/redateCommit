@@ -2,7 +2,7 @@
 
 가능하면 쓸 일 없길 바람...
 
-## 1. git log로 commit history를 확인.
+## 1. git log
 
 $ git log
 
