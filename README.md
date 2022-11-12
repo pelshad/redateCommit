@@ -28,9 +28,9 @@ ex) $ git commit --amend --no-edit --date "May 29 08:00:00 2021 +0000"
 
 $ git rebase --continue
 
-그러면 아래와 같은 메세지가 나옵니다. 일단 넘어가서,
-
 fatal: No rebase in progress?
+
+라는 글이 나오는데 무시해도 됨
 
 ## 4. git push -f origin main
 
