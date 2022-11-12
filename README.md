@@ -15,8 +15,8 @@ $ git log
 ## 1-2. git rebase -i {hash value}
 
 ex) git rebase -i 83f94b07a663bcaf5ddd355f92830fe4d9
-맨 윗 줄의 pick을 edit로 수정
 
+맨 윗 줄의 pick을 edit로 바꾸고 저장
 
 ## 2. git commit amend
 
